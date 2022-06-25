@@ -1,0 +1,18 @@
+* {
+  font-family: "Varela Round", sans-serif;
+}
+
+.container {
+  max-width: 1300px;
+}
+
+header {
+  z-index: 1000;
+}
+
+.post-aside {
+  position: sticky;
+  top: 10%;
+  width: 330px;
+  min-width: 330px;
+}
